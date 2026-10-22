@@ -1,4 +1,4 @@
-# CS-300-Portfolio
+# CS-300-Analysis and Design
 CS-300 Data Structures and Algorithm Portfolio
 
 1. What was the problem you were solving in the projects for this course?
